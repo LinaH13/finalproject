@@ -1,0 +1,1 @@
+As part of my Devops Final Project, I created a basic Apache Web Server under Linux, I also set up an IIS under Windows 2022 Server, and I created an Application Load Balancer for 2 EC2 instances. Repo Name- finalproject.
